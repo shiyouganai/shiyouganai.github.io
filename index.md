@@ -18,4 +18,6 @@ all this mistaken idea of denouncing pleasure and praising pain was born and I w
 
 Character art by [Nyam](https://twitter.com/nyawurin).
 
-All website content and characters &copy; 2019 shiyouganai.
+Philosophising by Marcus Tullius Cicero (Harris Rackham, Trans.)
+
+All other content and characters &copy; 2019 shiyouganai.

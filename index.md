@@ -17,11 +17,12 @@ all this mistaken idea of denouncing pleasure and praising pain was born and I w
 ### Misc Links
 
 [FFXIV Character Profile](https://na.finalfantasyxiv.com/lodestone/character/10232780/)
+
 [FFLogs](https://www.fflogs.com/character/na/cactuar/priere%20d'enpa)
 
 ***
 
-Character art by [Nyam](https://twitter.com/nyawurin). Character design by [dvamei](https://twitter.com/dvamei) and shiyouganai.
+Character art by [Nyam](https://twitter.com/nyawurin); character design by [dvamei](https://twitter.com/dvamei) and shiyouganai.
 
 Philosophising by Marcus Tullius Cicero (Harris Rackham, Trans.)
 

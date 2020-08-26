@@ -21,6 +21,9 @@ Greetings, and thanks for visiting. I'm a full-time engineer and hobbyist game d
 
 * [Twitter](https://twitter.com/shiyouganai)  
   This is my public social media account, but advance warning: it's general purpose and has lots of non-programming content.
+  
+* [Twitch](https://www.twitch.tv/priere__)
+  This is where I sometimes stream my FFXIV gameplay.
 
 * [FFXIV Character Profile](https://na.finalfantasyxiv.com/lodestone/character/10232780/)  
   [FFLogs Profile](https://www.fflogs.com/character/na/cactuar/priere%20d'enpa)  

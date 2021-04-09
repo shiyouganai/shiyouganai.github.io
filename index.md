@@ -24,7 +24,10 @@ Greetings, and thanks for visiting. I'm a full-time engineer and hobbyist game d
   
 * [Twitch](https://www.twitch.tv/priere__)  
   This is where I sometimes stream my FFXIV gameplay.
-
+  
+* [Mascot](/assets/chloe_main_reference_2200x1600.png)  
+  My mascot character's name is Chloe, and here is her reference sheet! She represents me on most of my social media accounts. Please be nice to her.
+  
 * [FFXIV Character Profile](https://na.finalfantasyxiv.com/lodestone/character/10232780/)  
   [FFLogs Profile](https://www.fflogs.com/character/na/cactuar/priere%20d'enpa)  
   One of my hobbies is playing MMORPGs, and I've been an active FFXIV player for quite a few years. I'm linking my character information here because I'm always willing to say hello to a fellow player.

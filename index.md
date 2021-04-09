@@ -26,7 +26,7 @@ Greetings, and thanks for visiting. I'm a full-time engineer and hobbyist game d
   This is where I sometimes stream my FFXIV gameplay.
   
 * [Mascot](/assets/chloe_main_reference_2200x1600.png)  
-  My mascot character's name is Chloe, and here is her reference sheet! She represents me on most of my social media accounts. Please be nice to her.
+  My mascot character's name is Chloe, and here is her reference sheet! She represents me as an avatar on my social media accounts, as well as in VRChat.
   
 * [FFXIV Character Profile](https://na.finalfantasyxiv.com/lodestone/character/10232780/)  
   [FFLogs Profile](https://www.fflogs.com/character/na/cactuar/priere%20d'enpa)  
@@ -35,4 +35,4 @@ Greetings, and thanks for visiting. I'm a full-time engineer and hobbyist game d
 ---
 
 Character art by [nyawurin](https://twitter.com/nyawurin); character design by [dvamei](https://twitter.com/dvamei) and shiyouganai.  
-All other content and characters &copy; 2019-2020 shiyouganai.
+All other content and characters &copy; 2019-2021 shiyouganai.

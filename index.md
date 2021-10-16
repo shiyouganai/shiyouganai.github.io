@@ -11,6 +11,7 @@ Greetings, and thanks for visiting. I'm a full-time engineer and hobbyist game d
 ### Projects
 
 #### Unnamed VR DJ App (In Development)
+{% include youtube_embed.html yt_id="Gji3krJu0i0" %}  
 {% include youtube_embed.html yt_id="BhpIvtpUL-s" %}  
 {% include youtube_embed.html yt_id="3l-ngJPXISo" %}  
 A collaboration with good friend [DJ School Pizza](https://twitter.com/djschoolpizza) and [Ravestation Records](https://twitter.com/ravestationrec); this is a custom Unity application for Virtual Reality DJ performances. It can capture the DJ's movements, emote the 3D avatar, play background videos, and more!

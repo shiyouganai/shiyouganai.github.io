@@ -11,11 +11,12 @@ Greetings, and thanks for visiting. I'm a full-time engineer and hobbyist game d
 ### Projects
 
 #### Unnamed VR DJ App (In Development)
+A collaboration with good friend [DJ School Pizza](https://twitter.com/djschoolpizza) and [Ravestation Records](https://twitter.com/ravestationrec); this is a custom Unity application for Virtual Reality DJ performances. It can capture the DJ's movements, emote the 3D avatar, play background videos, and more! Some VODs of performances using the app are below, ordered from most recent version to earliest version.
+
 {% include youtube_embed.html yt_id="xkPRZFkaIyM" %}  
 {% include youtube_embed.html yt_id="Gji3krJu0i0" %}  
 {% include youtube_embed.html yt_id="BhpIvtpUL-s" %}  
-{% include youtube_embed.html yt_id="3l-ngJPXISo" %}  
-A collaboration with good friend [DJ School Pizza](https://twitter.com/djschoolpizza) and [Ravestation Records](https://twitter.com/ravestationrec); this is a custom Unity application for Virtual Reality DJ performances. It can capture the DJ's movements, emote the 3D avatar, play background videos, and more!
+{% include youtube_embed.html yt_id="3l-ngJPXISo" %}
 
 Motion Capture Backend: [Virtual Motion Capture](https://vmc.info/) and [EVMC4U](https://github.com/gpsnmeajp/EasyVirtualMotionCaptureForUnity).  
 Realtime Area Lighting: [LTCGI](https://ltcgi.dev/)  

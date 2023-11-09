@@ -39,7 +39,7 @@ Hardware: Vive Trackers and Valve Index Knuckles.
   This is where I sometimes stream my FFXIV gameplay.
 
 * [Mascot](/assets/chloe_main_reference_2200x1600.png)  
-  My mascot character's name is Chloe, and here is her reference sheet! She represents me as an avatar on my social media accounts, as well as in VRChat.
+  This website's mascot character is named Chloe, and here is her reference sheet! She also represents me as an avatar on some of my social media accounts, and sometimes in VRChat.
 
 * [FFXIV Character Profile](https://na.finalfantasyxiv.com/lodestone/character/10232780/)  
   [FFLogs Profile](https://www.fflogs.com/character/na/cactuar/priere%20d'enpa)  

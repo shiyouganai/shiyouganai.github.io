@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 logo: /assets/teru_priere_portrait_850x1180.png
 title: Priere's DevLog
-description: Welcome to my website!
+description: My personal website and project showcase.
 show_downloads: false
 gallery_url: /assets/gallery/
 collections:

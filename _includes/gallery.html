@@ -1,0 +1,26 @@
+<style>
+   .image-gallery {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: center;
+  }
+
+  .thumb {
+    aspect-ratio: 4/3;
+    line-height: 0;
+  }
+</style>
+
+<div class ="image-gallery">
+{% for image in site.static_files %}
+    {% if image.path contains include.gallery_name %}
+    {% unless image.path contains "/thumbs/" %}
+    <div class="thumb">
+        <a href="{{ site.gallery_url }}{{ include.gallery_name }}/{{ image.name }}">
+            <img src="{{ site.gallery_url }}{{ include.gallery_name }}/thumbs/{{ image.name }} " alt="{{ image.name }}"/>
+        </a>
+    </div>
+    {% endunless %}
+    {% endif %}
+{% endfor %}
+</div>

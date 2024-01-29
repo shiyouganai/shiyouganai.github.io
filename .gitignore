@@ -5,7 +5,6 @@ _site/
 
 *.swp
 *~
-Gemfile
-Gemfile.lock
 vendor/
 .bundle/
+.local_assets/

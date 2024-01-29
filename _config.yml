@@ -1,9 +1,10 @@
 theme: jekyll-theme-minimal
-logo: /assets/nyam_headshot_300x300.png
+logo: /assets/teru_priere_portrait_850x1180.png
 title: Priere's DevLog
 description: Welcome to my website!
 show_downloads: false
+gallery_url: /assets/gallery/
 collections:
-    projects:
-        output: false
+  projects:
+    output: false
 include: ['.well-known']

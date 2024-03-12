@@ -2,9 +2,19 @@ theme: jekyll-theme-minimal
 logo: /assets/teru_priere_portrait_850x1180.png
 title: Priere's DevLog
 description: My personal website and project showcase.
+twitter:
+  username: shiyouganai
+  card: summary
 show_downloads: false
 gallery_url: /assets/gallery/
 collections:
   projects:
     output: false
 include: ['.well-known']
+defaults:
+  - scope:
+      path: ""
+    values:
+      image:
+        path: /assets/priere_kemono_wave_600x600.png
+        alt: A portrait image of a kemono-style fox with green and yellow fur, smiling and waving to the camera

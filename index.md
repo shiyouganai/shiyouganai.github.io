@@ -54,10 +54,11 @@ A bookish bat girl who loves sweaters.
 
 #### Public Accounts
 
+* [Bluesky](https://bsky.app/profile/shiyouganai.dev)
 * [Twitter/X](https://x.com/shiyouganai)  
-  This is my main public social media account.  
-  * Advance warning: it's general purpose, has lots of non-programming content, and I don't guarantee it's worksafe.
-  * If you need to get in contact with me, this is a good way to do it.  
+  These are my main public social media accounts.  
+  * Advance warning: they are general purpose, have lots of non-programming content, and I don't guarantee they are worksafe.
+  * If you need to get in contact with me, use these accounts!
   * My VRChat ID is in my bio. I love social VR! Feel free to chat with me about it or ask to join me in game. However, please do not send unsolicited friend requests without first introducing yourself.
 * [Twitch](https://www.twitch.tv/priere__)  
   This is where I (rarely) stream.

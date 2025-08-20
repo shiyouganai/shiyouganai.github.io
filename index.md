@@ -9,6 +9,46 @@ Greetings, and thanks for visiting. I'm a full-time engineer and hobbyist develo
 
 ---
 
+### Characters
+
+#### Mascot/Persona/Fursona
+
+![Priere (Youmei)](/assets/priere_kemono_wave_800x1700.png)
+{: .right-content}
+
+**Priere (Youmei)** ([Reference Gallery](/gallery/priere-youmei-reference))  
+This version represents me all over the social internet and sometimes in VR. He is a Kemono style fox; I really like that genre of artwork.
+{: .right-content}
+
+![Priere (Novabeast)](/assets/priere_nova_tongue_685x1795.png)
+{: .left-content}
+
+**Priere (Novabeast)** ([Reference Gallery](/gallery/priere-novabeast-reference))  
+This version represents me very frequently in VR. He is a Novabeast, a dragon-like creature!
+{: .left-content}
+
+<div class="clearhack"></div>
+
+#### Other OCs
+
+![Chloe](/assets/chloe_punqakes_chibi_740x820.png)
+{: .right-content}
+
+**Chloe** ([Reference](/assets/chloe_main_reference_2200x1600.png))  
+An energetic cat girl, from which my persona derives its color scheme.
+{: .right-content}
+
+![Sophia](/assets/sophia_punqakes_chibi_740x820.png)
+{: .left-content}
+
+**Sophia** ([Reference](/assets/sophia_main_reference_4000x3942.png))  
+A bookish bat girl who loves sweaters.
+{: .left-content}
+
+<div class="clearhack"></div>
+
+---
+
 ### Projects
 {% for project in site.projects %}
 #### [{{ project.title }}]({{ project.exturl }})
@@ -22,37 +62,7 @@ Greetings, and thanks for visiting. I'm a full-time engineer and hobbyist develo
 
 ---
 
-### Miscellany
-
-#### Mascot Character/Persona
-
-![Priere](/assets/priere_kemono_wave_800x1700.png)
-{: .left-content}
-
-**Priere** ([Reference Gallery](/gallery/priere-reference))  
-My current mascot character/persona represents me all over the social internet, including in VRChat. He is a Kemono style fox; I really like that genre of artwork.
-
-<div class="clearhack"></div>
-
-#### Other OCs
-
-![Chloe](/assets/chloe_punqakes_chibi_740x820.png)
-{: .right-content}
-
-**Chloe** ([Reference](/assets/chloe_main_reference_2200x1600.png))  
-An energetic cat girl, from which my persona and VR avatars derive their color scheme.
-{: .right-content}
-
-![Sophia](/assets/sophia_punqakes_chibi_740x820.png)
-{: .left-content}
-
-**Sophia** ([Reference](/assets/sophia_main_reference_4000x3942.png))  
-A bookish bat girl who loves sweaters.
-{: .left-content}
-
-<div class="clearhack"></div>
-
-#### Public Accounts
+### Public Accounts
 
 * [Bluesky](https://bsky.app/profile/shiyouganai.dev)
 * [Twitter/X](https://x.com/shiyouganai)  

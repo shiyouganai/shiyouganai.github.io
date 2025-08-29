@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: gallery
 title: Priere (Novabeast) Reference Gallery
 permalink: /gallery/priere-novabeast-reference
 ---

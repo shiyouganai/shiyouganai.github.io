@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: gallery
 title: Priere (Youmei) Reference Gallery
 permalink: /gallery/priere-youmei-reference
 ---

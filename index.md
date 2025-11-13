@@ -17,14 +17,14 @@ Greetings, and thanks for visiting. I'm a full-time engineer and hobbyist develo
 {: .right-content}
 
 **Jay Priere (Youmei)** ([Reference Gallery](/gallery/priere-youmei-reference))  
-This version represents me all over the social internet and sometimes in VR. He is a Kemono style fox; I really like that genre of artwork.
+This version represents me in VR occasionally. He is a Kemono style fox; I really like that genre of anthro artwork.
 {: .right-content}
 
 ![Jay Priere (Novabeast)](/assets/priere_nova_tongue_685x1795.png)
 {: .left-content}
 
 **Jay Priere (Novabeast)** ([Reference Gallery](/gallery/priere-novabeast-reference))  
-This version represents me very frequently in VR. He is a Novabeast, a dragon-like creature!
+This version represents me very frequently in VR. He is a [Novabeast](https://kittomatic.gumroad.com/l/Novabeast), a dragon-like creature!
 {: .left-content}
 
 <div class="clearhack"></div>

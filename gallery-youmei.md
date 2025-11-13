@@ -1,10 +1,10 @@
 ---
 layout: gallery
-title: Priere (Youmei) Reference Gallery
+title: Jay Priere (Youmei) Reference Gallery
 permalink: /gallery/priere-youmei-reference
 ---
 
-### Priere (Youmei) Reference Gallery
+### Jay Priere (Youmei) Reference Gallery
 
 Here is a collection of references for this version of my VRChat avatar.
 

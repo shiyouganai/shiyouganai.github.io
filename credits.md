@@ -20,4 +20,6 @@ Sophia was designed in collaboration with Strovi, who did her initial visual des
 
 Chloe and Sophia's chibi artworks were drawn by [Punqakes](https://twitter.com/punqakes).
 
+Other credits are located by the art itself!
+
 Thank you to all the wonderful and talented artists who have drawn my characters!
